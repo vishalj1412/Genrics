@@ -12,6 +12,5 @@ public class MaximumValue {
             max = z; // z is the largest
 
         return max; // returns the largest object
-    } // end method maximum
-
+    } 
 }
