@@ -15,7 +15,7 @@ public class MaximumValueTest {
     @Test
     public void FolatingTest(){
         MaximumValue maxval=new MaximumValue();
-        Double value= maxval.maximum(3.1,1.0,5.4);
+        float value= maxval.maximum(3.1f,1.23,5.4f);
         System.out.println(""+value);
     }
 }
