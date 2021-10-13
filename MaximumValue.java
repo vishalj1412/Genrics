@@ -13,5 +13,5 @@ public class MaximumValue {
 
         return max; // returns the largest object
     } // end method maximum
-
+    
 }
