@@ -12,4 +12,10 @@ public class MaximumValueTest {
      System.out.println(value);
      System.out.println(""+string);
     }
+    @Test
+    public void FolatingTest(){
+        MaximumValue maxval=new MaximumValue();
+        Double value= maxval.maximum(3.1,1.0,5.4);
+        System.out.println(""+value);
+    }
 }
