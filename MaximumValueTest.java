@@ -9,5 +9,5 @@ public class MaximumValueTest {
         //integer three value and check max value
       int value= maxvalue.maximum(3,10,5);
      System.out.println(value);
-    }
+   }
 }
